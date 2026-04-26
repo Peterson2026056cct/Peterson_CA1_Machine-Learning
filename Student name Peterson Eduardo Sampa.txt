@@ -1,0 +1,9 @@
+Student name: Peterson Eduardo Sampaio Silva
+Student number: 2026056
+
+HDIP in Sci in Data Analytics Business
+Machine Learning
+
+CA1_Machine-Learning:
+https://github.com/Peterson2026056cct/Peterson_CA1_Machine-Learning.git
+
